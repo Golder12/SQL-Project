@@ -5,9 +5,9 @@ business that will allow him to capture and store all of the important informati
 the business generates.
 
 This project is focusing on developing three main areas:
-Customer Orders
-Stock control
-Staff
+- Customer Orders
+- Stock control
+- Staff
 
 ## FIRST AREA: CUSTOMER ORDER
 This is the data that will be collected for each different order:
