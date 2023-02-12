@@ -1,7 +1,7 @@
 # SQL-Project
 Project scenario: 
-There is a client, Ben, who is opening up a new pizzeria. He requires a custom relational for his
-business that will allow him to capture and store all of the important information and data that
+There is a client, Ben, who is opening up a new pizzeria. He requires a custom relational database for 
+his business that will allow him to capture and store all of the important information and data that
 the business generates.
 
 This project is focusing on developing three main areas:
